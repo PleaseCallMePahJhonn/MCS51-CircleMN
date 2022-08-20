@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\tim.obj" 
+TO ".\Objects\T0CountAndLedFlash" 
+PRINT(".\Listings\T0CountAndLedFlash.m51") RAMSIZE(256) 

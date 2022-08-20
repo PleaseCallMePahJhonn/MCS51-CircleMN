@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\exti.obj" 
+TO ".\Objects\Exti0AndLedFlash" 
+PRINT(".\Listings\Exti0AndLedFlash.m51") RAMSIZE(256) 

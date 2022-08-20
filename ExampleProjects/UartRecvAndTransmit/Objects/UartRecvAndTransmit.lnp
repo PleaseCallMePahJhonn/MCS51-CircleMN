@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\uart.obj" 
+TO ".\Objects\UartRecvAndTransmit" 
+PRINT(".\Listings\UartRecvAndTransmit.m51") RAMSIZE(256) 

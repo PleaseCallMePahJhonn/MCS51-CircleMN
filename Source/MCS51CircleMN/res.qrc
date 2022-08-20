@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>xtal.png</file>
+        <file>info.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
