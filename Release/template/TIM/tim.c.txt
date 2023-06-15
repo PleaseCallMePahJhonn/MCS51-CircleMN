@@ -1,6 +1,0 @@
-#include "reg52.h"
-#include "tim.h"
-void StartT0()
-{
-	TR0=1;
-}
